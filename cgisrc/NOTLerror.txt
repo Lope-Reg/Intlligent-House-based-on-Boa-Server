@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>下位机异连接常提醒</title>
+        </head>
+        <body>
+			<center>
+			<h3>下位机未连接系统，请将下位机连接系统后重试。</h3>
+			<h3>若仍有问题请联系管理员，电话：18514494913。</h3>
+			<a href="../index.html" target="blank">返回登录</a>
+			</center>
+		</body>
+    </html>

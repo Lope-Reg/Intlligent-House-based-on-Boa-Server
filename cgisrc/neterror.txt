@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>网络异常提醒</title>
+        </head>
+        <body>
+			<center>
+			<h3>网络原因导致数据不可达，请稍后重试</h3>
+			<a href="../index.html" target="blank">返回登录</a>
+			</center>
+</body>
+</html>
